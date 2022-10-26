@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshk03&show_icons=true&locale=en" alt="darshk03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshk03&" alt="darshk03" /></p>
+
+[![@darshk03's Holopin board](https://holopin.me/darshk03)](https://holopin.io/@darshk03)
