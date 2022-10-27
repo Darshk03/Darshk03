@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android Application Developement**
 
-- 🌱 I’m currently learning **K. K. Wagh Institute of Engineering Education & Research · Address Hirabai Haridas Vidyanagari, Amrutdham, Panchavati, Nashik, Maharashtra 422003**
+- 🌱 I’m currently learning **K. K. Wagh Institute of Engineering Education & Research**
 
 - 💬 Ask me about **Android Developement , DSA**
 
