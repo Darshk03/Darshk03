@@ -28,6 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshk03&" alt="darshk03" /></p>
 
-https://res.cloudinary.com/practicaldev/image/fetch/s--TONZ7S3u--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png
+
 
 [![@darshk03's Holopin board](https://holopin.me/darshk03)](https://holopin.io/@darshk03)
