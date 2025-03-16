@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **K. K. Wagh Institute of Engineering Education & Research**
 
-- 💬 Ask me about **Android Developement , DSA**
+- 💬 Ask me about **Machine Learning , Python , Data Science , Sql , DSA**
 
 - 📫 How to reach me **darshankedare1815@gmail.com**
 
