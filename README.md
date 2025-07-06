@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshk03&label=Profile%20views&color=0e75b6&style=flat" alt="darshk03" /> </p>
 <p align="left"> <a href="https://twitter.com/kedaredarshan" target="blank"><img src="https://img.shields.io/twitter/follow/kedaredarshan?logo=twitter&style=for-the-badge" alt="kedaredarshan" /></a> </p>
 
-- 🔭 I’m currently working on **Android Application Developement**
+- 🔭 I’m Currently Learning **Data Analytics**
 
-- 🌱 I’m currently learning **K. K. Wagh Institute of Engineering Education & Research**
+- 🌱 I’m graduate from  **K. K. Wagh Institute of Engineering Education & Research** (2025 Batch)
 
 - 💬 Ask me about **Machine Learning , Python , Data Science , Sql , DSA**
 
